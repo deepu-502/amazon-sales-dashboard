@@ -1,4 +1,4 @@
-Amazon Sales & Performance Analytics Dashboard
+📈 Amazon Sales Dashboard: Performance, KPIs & Top Products
 
 📊 Project Overview:
 
