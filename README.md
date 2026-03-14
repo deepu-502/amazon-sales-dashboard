@@ -1,4 +1,5 @@
 Amazon Sales & Performance Analytics Dashboard
+
 📊 Project Overview
 This repository contains an interactive Power BI dashboard built from Amazon sales data.
 It highlights key performance indicators (KPIs), category breakdowns, time-based sales trends, and ASIN-level insights to support data-driven decision-making.
