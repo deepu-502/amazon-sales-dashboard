@@ -1,11 +1,10 @@
 Amazon Sales & Performance Analytics Dashboard
 
-📊 Project Overview
+📊 Project Overview:
 
-This repository contains an interactive Power BI dashboard built from Amazon sales data.
-It highlights key performance indicators (KPIs), category breakdowns, time-based sales trends, and ASIN-level insights to support data-driven decision-making.
+This repository contains an interactive Power BI dashboard built from Amazon sales data. It highlights key performance indicators (KPIs), category breakdowns, time-based sales trends, and ASIN-level insights to support data-driven decision-making.
 
-🚀 Features
+🚀 Features:
 
 KPIs at a glance: Total revenue, order volume, and product quantities.
 
@@ -17,10 +16,11 @@ ASIN-level detail: Table of top-performing products with revenue and quantity me
 
 Interactive filters: Category, sales channel, and status slicers for dynamic exploration.
 
-📂 Dataset
+📂 Dataset:
 
 Source: Amazon sales report (sample dataset).
 
 Fields include: Order ID, ASIN, Category, Quantity, Amount, Date, Sales Channel, Status.
 
 Note: Sensitive or proprietary data has been excluded.
+
