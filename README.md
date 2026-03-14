@@ -26,5 +26,15 @@ Note: Sensitive or proprietary data has been excluded.
 
 📸 Dashboard Overview
 
+This project contains a Power BI dashboard analyzing Amazon sales data.  
+The `.pbix` file is included in the repository but cannot be previewed on GitHub due to size limits.  
+
+👉 To view the dashboard:
+1. Download `amazon-sales-dashboard.pbix` from this repo.
+2. Open it in **Power BI Desktop**.
+3. Explore KPIs, category breakdowns, sales trends, and top ASINs.
+
+*Visual preview of the dashboard included below.*
+
 ![Dashboard Overview](dashboard-overview.jpg)
 
