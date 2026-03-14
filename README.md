@@ -24,3 +24,7 @@ Fields include: Order ID, ASIN, Category, Quantity, Amount, Date, Sales Channel,
 
 Note: Sensitive or proprietary data has been excluded.
 
+📸 Dashboard Overview
+
+![Dashboard Overview](dashboard-overview.jpg)
+
