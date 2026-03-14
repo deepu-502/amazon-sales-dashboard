@@ -38,3 +38,12 @@ The `.pbix` file is included in the repository but cannot be previewed on GitHub
 
 ![Dashboard Overview](dashboard-overview.jpg)
 
+## 💡 Insights
+- 📈 **Sales Growth**: Clear upward trend across months and quarters  
+- 🛒 **Category Leaders**: Sets and Kurtas drive the highest revenue  
+- 🌍 **Channel Comparison**: Amazon.in dominates compared to Non‑Amazon sales  
+- 🔎 **Product Focus**: Top ASINs contribute significantly to overall performance  
+
+## 🎯 Conclusion
+This dashboard provides a **comprehensive view of Amazon sales performance**, enabling stakeholders to track KPIs, identify trends, and make data‑driven decisions with ease.
+
